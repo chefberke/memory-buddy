@@ -14,7 +14,7 @@ function Header() {
         <p className=" text-gray-600 text-center mt-3 font-normal text-[16px] max-sm:px-16 max-md:px-16">
           Capture the moments that matter, cherish the memories
           forever. Our app lets <br /> you preserve and share your
-          life's most beautiful experiences.
+          lifes most beautiful experiences.
         </p>
         <div className="mt-6">
           <h2 className="text-center text-black/90 font-medium">
